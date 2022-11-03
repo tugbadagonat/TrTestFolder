@@ -5,3 +5,5 @@ Bu günkü dersimiz nasıl?
 artık değişiklikleri tekrar tekrar yapıp gönderebilirim.
 
 Hatta bunu şu an branch den yapıyorum.
+
+Bu benim gireboludan branch'e gönderdiğim değişiklik.
